@@ -1,6 +1,6 @@
 clear all
 clc
-%Miroslav Paškevič EKSfm-2
+%Miroslav Paškevič EKSfm-22
 % Classification using perceptron
 
 % Reading apple images
